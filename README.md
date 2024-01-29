@@ -53,14 +53,6 @@ Nice to meet you, I'm Lukas Geppert!
 
 <br>
 
- 
-## Github Status 🏆
-![lukasgeppert's github stats](https://github-readme-stats.vercel.app/api?username=lukasgeppert&show_icons=true&count_private=true&theme=dark)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lukasgeppert&theme=dark" width="48%">
-
-<br>
-
 <p align="center">Wanna Know me More?</p>
 
 <p align="center">
