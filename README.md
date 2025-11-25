@@ -53,13 +53,4 @@ Nice to meet you, I'm Lukas Geppert!
 
 <br>
 
-<p align="center">Wanna Know me More?</p>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lgeppert/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
-
-</p>
-
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=lukasgeppert.lukasgeppert" alt="lukasgeppert :: Visitor's Count" /></p> 
